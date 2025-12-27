@@ -15,6 +15,11 @@ backup/
 logs
 *.log
 
+#cache files
+.cache/
+pycache/
+__pycache__/
+
 #os generated files
 .DS_Store
 Thumbs.db
