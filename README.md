@@ -9,3 +9,22 @@
 - PyQt6
 - YFinance
 - Requests
+
+## Installation
+### 1. Clone the Repository
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+### 3. Run the Application
+
+```bash
+python main.py
+```
+## Stockvenant 
+![stockvenant.png](stockvenant.png)
+
+
+
